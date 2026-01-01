@@ -1,4 +1,4 @@
-[陳宏傑的對話紀錄-Python 最小編輯距離與對齊程式](https://gemini.google.com/share/9a5b92b9a653)
+# [陳宏傑的
 ---
 ```
 PS C:\Users\宏傑\OneDrive\桌面\alg>  & 'c:\Users\宏傑\AppData\Local\Programs\Python\Python310\python.exe' 'c:\Users\宏傑\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\libs\debugpy\launcher' '54385' '--' 'C:\Users\宏傑\OneDrive\桌面\alg\editDistance.py' 
