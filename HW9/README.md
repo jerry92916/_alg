@@ -1,4 +1,5 @@
-[陳宏傑的對話紀錄-Python 最小編輯距離與對齊程式](https://gemini.google.com/share/9a5b92b9a653)
+[陳宏傑的對話紀錄-Python 最小編輯距離與對齊程式](https://gemini.google.com/share/9a5b92b9a653)  
+
 ---
 本專案使用 Python 實作編輯距離（Edit Distance / Levenshtein Distance） 的動態規劃演算法，用來計算兩個字串之間轉換所需的最少操作次數，並進一步產生字串對齊（alignment）結果。
 
