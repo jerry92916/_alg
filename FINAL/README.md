@@ -2,7 +2,7 @@
 ---
 ## 期中作業  
 ## 習題1: 計算合併排序的複雜度 T(n) = T(n/2) + n  
-[HW1](https://github.com/jerry92916/_alg/blob/main/HW1/HW1-%E9%99%B3%E5%AE%8F%E5%82%91.jpg)
+[HW1](https://github.com/jerry92916/_alg/blob/main/HW1/HW1-%E9%99%B3%E5%AE%8F%E5%82%91.jpg)  
 ## 習題2: 請用四種方法算 f(n) = 2**n (2的 n 次方）  
 [HW2](https://github.com/jerry92916/_alg/tree/main/HW2)
 ## 習題 3 : 請用 AI 問答的方式，了解暴力法的各種用途  
