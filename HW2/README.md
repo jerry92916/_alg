@@ -4,6 +4,7 @@
 3.遞迴乘法  
 4.遞迴加上查表  
 然後最後用n=10來測試  
+[程式碼](https://github.com/jerry92916/_alg/blob/main/HW2/power2n.py)
 
 ---
 執行結果  
