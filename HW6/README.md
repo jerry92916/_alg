@@ -5,7 +5,11 @@
 3.改良法:在初期「高溫」時接受較差的解，增加跳出局部陷阱並找到全域最佳解的機會。  
 4.梯度下降法:根據文章提到的最小平方差原理，梯度下降法透過計算誤差的「方向」來更新參數，所以我用了微積分中的連鎖律，讓參數 $b_0, b_1$ 朝著總誤差最小的方向「走」去。  
 最後實作下來都很接近文章中線性回歸的解:-4225.161153 + (338.192386 * Data)  
-然後我有把這四種演算法整理成一份筆記:[筆記](https://github.com/jerry92916/_alg/blob/main/HW6/HW6-%E9%99%B3%E5%AE%8F%E5%82%91.jpg)
+然後我有把這四種演算法整理成一份筆記:[筆記](https://github.com/jerry92916/_alg/blob/main/HW6/HW6-%E9%99%B3%E5%AE%8F%E5%82%91.jpg)  
+[爬山演算法程式](https://github.com/jerry92916/_alg/blob/main/HW6/HillClimbing.py)  
+[貪婪法程式](https://github.com/jerry92916/_alg/blob/main/HW6/Greedy.py)  
+[改良法程式](https://github.com/jerry92916/_alg/blob/main/HW6/SimulatedAnnealing.py)  
+[剃度下降法程式](https://github.com/jerry92916/_alg/blob/main/HW6/GradientDescent.py)
 
 
 ---  
