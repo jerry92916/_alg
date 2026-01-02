@@ -5,6 +5,5 @@
 程式碼是我比較資料後做成的5種演算法的運用，輸出的成果與運行的邏輯，我用自己的理解整理並打在簡報中的展示與輸出，手寫的部分是我自己整理出來的筆記，整理過後我有用在簡報當中，像是BFS和DFS的介紹與比較，跟Dijkstra、Prim、Kruskal三種演算法的比較表格，最後參考的資料打在簡報的倒數第二頁。  
 [程式碼1.關於BFS跟DFS](https://github.com/jerry92916/_alg/blob/main/MID/MID1.py)  
 [程式碼2.關於Dijkstra、Prim、Kruskal](https://github.com/jerry92916/_alg/blob/main/MID/MID2.py)  
-[圖形演算法報告](https://github.com/jerry92916/_alg/blob/main/MID/%E5%9C%96%E5%BD%A2%E6%BC%94%E7%AE%97%E6%B3%95-%E9%99%B3%E5%AE%8F%E5%82%91.pdf)
-
+## [圖形演算法報告](https://github.com/jerry92916/_alg/blob/main/MID/%E5%9C%96%E5%BD%A2%E6%BC%94%E7%AE%97%E6%B3%95-%E9%99%B3%E5%AE%8F%E5%82%91.pdf)
 
