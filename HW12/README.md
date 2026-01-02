@@ -1,6 +1,7 @@
 首先將隨機生成的Logits透過Softmax函數轉換為符合機率定義的預測分佈 $q$，接著利用Cross Entropy衡量 $q$ 與目標分佈 $p$ 之間的差距。  
 在訓練循環中，計算出損失函數對Logits的梯度（即誤差 $q - p$），並以此方向利用梯度下降法微調Logits。  
 經過多次迭代修正，預測分佈 $q$ 會不斷逼近真實分佈 $p$，最終使損失函數達到極小值。  
+[程式碼](https://github.com/jerry92916/_alg/blob/main/HW12/HW12.py)
 
 ---
 執行結果
