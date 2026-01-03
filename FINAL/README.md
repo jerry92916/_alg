@@ -25,7 +25,7 @@
 ## 習題 8 : 請說明 C(n,k) 的查表版和動態規劃版之異同  
 [HW8](https://github.com/jerry92916/_alg/blob/main/HW8/HW8-%E9%99%B3%E5%AE%8F%E5%82%91.jpg)
 ## 習題 9 : 請用 AI 寫出一個最小編輯距離程式，並請 AI 說明之，然後分享 AI 網址  
-[HW](https://github.com/jerry92916/_alg/tree/main/HW9)
+[HW9](https://github.com/jerry92916/_alg/tree/main/HW9)
 ## 習題 10 : 寫一個程式可以做 n 維函數的積分 (n 是參數）  
 [HW10](https://github.com/jerry92916/_alg/tree/main/HW10)
 ## 習題 11 : 請把計算理論的故事講一遍 （問 AI 回答也可以）  
